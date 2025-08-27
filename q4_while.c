@@ -1,4 +1,4 @@
-// print Print even no. from 1 to N using while loop.
+    // print Print even no. from 1 to N using while loop.
 
 #include <stdio.h>
 
@@ -10,7 +10,7 @@ int main() {
     
     while (i<=n) {
         if (i % 2 == 0) {
-            printf("This is Even No. %d\n",i);
+            printf("This is Even No: %d\n",i);
         }
         i++;
     }
